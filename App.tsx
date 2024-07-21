@@ -120,8 +120,8 @@
 // import {StyleSheet} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
-import SearchScreen from './src/SearchScreen';
-import DetailsScreen from './src/DetailsScreen';
+import SearchScreen from './src/screen/SearchScreen';
+import DetailsScreen from './src/screen/DetailsScreen';
 import React from 'react';
 
 /* const App = () => {
