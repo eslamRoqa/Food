@@ -64,3 +64,4 @@ yarn-error.log
 
 # testing
 /coverage
+    git push --set-upstream origin main
